@@ -1,0 +1,12 @@
+# successful.md — Erfolgreiche Abläufe (stealth-lora)
+
+> **Zweck**: Bewährte, reproduzierbare Abläufe dokumentieren.
+
+---
+
+## 2026-05-07
+
+### Doc-Health Bootstrap
+- **Ablauf**: Pflichtdateien via Mass Generator erstellt
+- **Ergebnis**: Doc-Health von 0% auf 100% gebracht
+- **Reproduzierbar**: Ja — `python3 /Users/jeremy/dev/stealth-runner/scripts/generate_missing_docs.py --repo stealth-lora`
